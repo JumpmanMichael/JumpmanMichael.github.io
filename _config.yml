@@ -1,1 +1,11 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
 theme: jekyll-theme-slate
+
+# Setup
+title:            Michael's Blog
+tagline:          'A Jekyll theme'
+author:
+  name:           'Michael'
+  url:             https://jumpmanmichael.github.io/
