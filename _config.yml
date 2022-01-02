@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-theme:            jekyll-theme-slate
+remote_theme:     pages-themes/slate@v0.2.0
 
 # Setup
 title:            Michael's Blog
@@ -10,3 +10,6 @@ tagline:          'A Jekyll theme'
 author:
   name:           'Michael'
   url:             https://jumpmanmichael.github.io/
+
+plugins:
+- jekyll-remote-theme 
