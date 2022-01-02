@@ -5,7 +5,7 @@ remote_theme:     pages-themes/slate@v0.2.0
 
 # Setup
 title:            Michael's Blog
-tagline:          'A Jekyll theme'
+description: 　　　欢迎你来到我的个人博客
 
 author:
   name:           'Michael'
